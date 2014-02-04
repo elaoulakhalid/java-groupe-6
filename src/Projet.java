@@ -13,6 +13,7 @@ import javax.swing.*;
 public class Fenetre extends JFrame {
 	
 	JTextPane txt ;
+	String str;
     public Fenetre(){
         
         this.setTitle("Ma première fenêtre java");
